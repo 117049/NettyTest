@@ -1,6 +1,6 @@
 package com.xxx;
 /**
- * description: Netty 输如文件流
+ * description: Netty 输入文件流
  * author: xhs
  * date: 2022/3/31
  * version:
