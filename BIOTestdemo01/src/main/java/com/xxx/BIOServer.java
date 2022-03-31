@@ -1,5 +1,10 @@
 package com.xxx;
-
+/**
+ * description: Netty 搭建BIO模型
+ * author: xhs 
+ * date: 2022/3/31
+ * version: 
+ **/
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.ServerSocket;

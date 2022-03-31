@@ -1,5 +1,10 @@
 package com.xxx;
-
+/**
+ * description: Netty 输出文件流
+ * author: xhs
+ * date: 2022/3/31
+ * version:
+ **/
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;

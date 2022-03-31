@@ -1,5 +1,10 @@
 package com.xxx;
-
+/**
+ * description: Netty Buffer缓冲测试
+ * author: xhs 
+ * date: 2022/3/31
+ * version: 
+ **/
 import java.nio.IntBuffer;
 
 public class BufferTest {
